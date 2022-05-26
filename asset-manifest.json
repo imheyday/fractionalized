@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fractionalized/static/css/main.38be36b0.css",
+    "main.js": "/fractionalized/static/js/main.c89ba549.js",
+    "static/js/787.2539bf1e.chunk.js": "/fractionalized/static/js/787.2539bf1e.chunk.js",
+    "index.html": "/fractionalized/index.html",
+    "main.38be36b0.css.map": "/fractionalized/static/css/main.38be36b0.css.map",
+    "main.c89ba549.js.map": "/fractionalized/static/js/main.c89ba549.js.map",
+    "787.2539bf1e.chunk.js.map": "/fractionalized/static/js/787.2539bf1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.c89ba549.js"
+  ]
+}
