@@ -2,12 +2,36 @@
 
 Live Website can be found at: 
 
-For more information about this project:
+https://newman0x.github.io/fractionalized/
 
-Demo Videos: 
+Note: 
+For the best experience, ensure you are using a Google Chrome browser with the Kaikas extension installed.
 
-## Available Scripts
+# Demo Videos: 
 
-In the project directory, you can run:
+# Creating a Vault
 
-### `npm start`
+https://youtu.be/3f-f0kzv32Q
+
+# Fractionalizing an exisitng NFT
+
+Demo Case: CryptoPunk  
+
+https://youtu.be/DvwCRjNJkbU
+
+# Fractionalizing a new NFT 
+
+Demo Case: Art Gallery 
+
+https://youtu.be/MqY01cXVqdE
+
+# Buying fractions
+
+https://youtu.be/OWNV1r19j4w
+
+# Indexing Vaults
+
+coming soon . . . 
+
+note: this project will use the CovalentAPI to perform queries about transactions, events, and interactions regarding a vault and it's underlying NFT/fractions. Currently this feature is not available on the Baobab Testnet, but it will be utilized once this project is improved and upgraded to mainnet. 
+
